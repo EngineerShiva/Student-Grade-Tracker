@@ -1,0 +1,16 @@
+
+## UI Notes
+- Grades are displayed in table as an **array string**: `[85.00, 90.00]`
+- Click **View Grades** to see a detailed popup (with average/highest/lowest)
+- Grade input is validated (0–100)
+- Duplicate student IDs are prevented
+
+## Future Enhancements
+- Save/load data (CSV/JSON)
+- Edit/remove individual grades in the View Grades dialog
+- Export summary to PDF/CSV
+- Search/filter students
+- Better UX (edit in-table, sorting, column resizing persistence)
+
+## Author
+Naman Singh Kushwaha

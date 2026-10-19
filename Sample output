@@ -1,0 +1,32 @@
+══════════ STUDENT SUMMARY ══════════
+
+Total Students: 3
+
+Student: Abhisekh Gautam (ID: 0701CS221001)
+  Subjects: 5
+  Grades  : [56.00, 79.00, 54.00, 62.00, 71.00]
+  Average : 64.40
+  Highest : 79.00
+  Lowest  : 54.00
+  Letter  : D
+  -----------------------------------
+Student: Ayush Chouhan (ID: 0701CS221002)
+  Subjects: 5
+  Grades  : [45.00, 63.00, 65.00, 39.00, 75.00]
+  Average : 57.40
+  Highest : 75.00
+  Lowest  : 39.00
+  Letter  : F
+  -----------------------------------
+Student: Rajesh Choudhary (ID: 0701cs221008)
+  Subjects: 5
+  Grades  : [63.00, 85.00, 84.00, 95.00, 99.00]
+  Average : 85.20
+  Highest : 99.00
+  Lowest  : 63.00
+  Letter  : B
+  -----------------------------------
+
+Class Average: 69.00
+Class Highest: 99.00
+Class Lowest: 39.00
